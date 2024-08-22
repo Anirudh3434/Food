@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "861746393283",
+    "project_id": "chat24-mobi",
+    "storage_bucket": "chat24-mobi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861746393283:android:ba9b0d59c7249596a47276",
+        "android_client_info": {
+          "package_name": "com.chat24"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu6AMEVxrKJ5aOqavFlWJmPM5mEUYLyC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
