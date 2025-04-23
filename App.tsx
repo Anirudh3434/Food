@@ -37,7 +37,7 @@ function MyStack() {
         options={{headerShown: false}}
         />
 
-<Stack.Screen
+        <Stack.Screen
         name='Dashboard'
         component={UserDashboard}
         options={{headerShown: false}}
